@@ -1,3 +1,5 @@
-name: my-app        # change this — must be unique across the org, lowercase, hyphens only
-team: easy-deploy
+name: testcollab2
+otel:
+  runtime: nodejs
 port: 3000
+team: easy-deploy
